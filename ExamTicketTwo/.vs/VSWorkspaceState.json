@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExamTicketTwo",
+    "\\ExamTicketTwo\\Areas",
+    "\\ExamTicketTwo\\Areas\\Admin",
+    "\\ExamTicketTwo\\Areas\\Admin\\Controllers",
+    "\\ExamTicketTwo\\Models"
+  ],
+  "SelectedNode": "\\ExamTicketTwo\\Models\\TeamMember.cs",
+  "PreviewInSolutionExplorer": false
+}
